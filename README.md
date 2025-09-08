@@ -15,11 +15,6 @@ This project lets you add, edit, complete, and delete tasks while keeping the UI
 
 ---
 
-## 📸 Demo
-*(Add a screenshot or GIF of your app here)*  
-
----
-
 ## 🛠️ Tech Stack
 - **React** (Frontend library)  
 - **Vite** (Build tool)  
